@@ -1,0 +1,36 @@
+@media screen and (max-width: 1020px) {
+.navbar {
+    flex-direction: column;
+    align-items: center;
+}
+
+.menu {
+    margin-top: 1em;
+    display: none;
+}
+
+.header {
+    flex-direction: column;
+}
+
+.img-headline img {
+  display: none;
+}
+
+.headline {
+    max-width: 100%;
+
+}
+
+.img-headline img {
+    margin-top: 1em;
+}
+
+.servicos {
+    padding: 1em;
+}
+
+.card {
+    width: 100%;
+}
+}
